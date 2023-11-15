@@ -2,7 +2,7 @@ Horiseon-Code-Refactor
 
 Front End Web Development Bootcamp
 
-<img width="630" alt="Screenshot 2023-11-15 at 00 05 33" src="https://github.com/msgemmawood/horiseon-code-refactor/assets/150028191/6557b91f-0770-4cce-80f8-df374e23d131">
+<img width="630" alt="Screenshot 2023-11-15 at 00 05 33" src="https://github.com/msgemmawood/horiseon-code-refactor/assets/150028191/b175dd70-2d75-43ec-a232-cf381d3d8656">
 
 The brief was to correct naccessability standards. The main concern was to be optimised for search engines.
 
