@@ -2,7 +2,9 @@ Horiseon-Code-Refactor
 
 Front End Web Development Bootcamp
 
-The brief was to correctnaccessability standards. The main concern was to be optimised for search engines.
+<img width="630" alt="Screenshot 2023-11-15 at 00 05 33" src="https://github.com/msgemmawood/horiseon-code-refactor/assets/150028191/6557b91f-0770-4cce-80f8-df374e23d131">
+
+The brief was to correct naccessability standards. The main concern was to be optimised for search engines.
 
 Refactoring of this webpage involved;
 Modernise HTML elements and selectors to be semantically correct.
@@ -20,6 +22,10 @@ Organise CSS for increased efficiency.
 Add comments to CSS for future development.
 
 Leave the code cleaner.
+
+
+
+
 
 This project has been deployed to Github.
 
