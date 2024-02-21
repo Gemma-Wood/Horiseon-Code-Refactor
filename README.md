@@ -7,12 +7,19 @@ A code refactor for Horiseon's front page. It was made in mind that the codebase
 Refactoring of this webpage involved;
 
 Modernise HTML elements and selectors to be semantically correct.
+
 Ensure format of HTML follows a logical structure.
+
 Ensure the use af alt attributes for all relevant images.
+
 Ensure the proper use of heading attributes.
+
 Ensure all links function correctly.
+
 Organise CSS for increased efficiency.
+
 Add comments to CSS for future development.
+
 Leave the code cleaner.
 
 ## Deployed Site
