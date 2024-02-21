@@ -1,26 +1,10 @@
 # Horiseon Code Refactor
 
-A code refactor for Horiseon's front page. It was made in mind that the codebase follows accessibility standards so that this marketing agency's suite is optimised for search engines.
-
 ## Description
 
-Refactoring of this webpage involved;
+A website code refactor to clean up html and css and give it more accessibility. Refactoring code to meet a new set of standards and to make it more accessible for people with disabilities who can access the website using assistive technologies like video captions, screen readers, and braille keyboards. Also re-organized some of the HTML semantics, and cleaned up some of the CSS style-sheet by consolidating to help better preserve the code long-term.
 
-Modernise HTML elements and selectors to be semantically correct.
-
-Ensure format of HTML follows a logical structure.
-
-Ensure the use af alt attributes for all relevant images.
-
-Ensure the proper use of heading attributes.
-
-Ensure all links function correctly.
-
-Organise CSS for increased efficiency.
-
-Add comments to CSS for future development.
-
-Leave the code cleaner.
+The HTML and CSS files have visible commented documentation of the changes made in order to clean and refactor the code.
 
 ## Deployed Site
 
