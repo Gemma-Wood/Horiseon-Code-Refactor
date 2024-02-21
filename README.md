@@ -37,7 +37,9 @@ Once deployed the application can be viewed in a traditional desktop web browser
 
 ## Project Screenshots
 
+<img width="1506" alt="Screenshot 2024-02-21 at 20 16 27" src="https://github.com/Gemma-Wood/Horiseon-Code-Refactor/assets/150028191/90ebb9bb-cd3a-4505-afc4-64f703e0ac6b">
 
+<img width="1488" alt="Screenshot 2024-02-21 at 20 16 41" src="https://github.com/Gemma-Wood/Horiseon-Code-Refactor/assets/150028191/0024aa19-1213-4e0e-b8fe-4a227f09680f">
 
 ## Author
 
